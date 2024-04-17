@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "colo": "^1.4.0",
     "number-precision": "^1.6.0"
   },
   "name": "node.js_seminare_2",
